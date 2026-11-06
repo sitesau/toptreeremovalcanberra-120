@@ -1,0 +1,22 @@
+{
+  "wheel_id": 782,
+  "structure": "umbrella",
+  "slug": "toptreeremovalcanberra-120",
+  "project": "tree-removal-services-canberra-signs-you-need-6b50b3bef76d97569",
+  "parent_t1_ref": "toptreeremovalcanberra-159",
+  "node_role": "feeder",
+  "money_target": "toptreeremovalcanberra.com.au",
+  "primary_kw": "tree removal services canberra signs you need",
+  "intended_url": "http://tree-removal-services-canberra-signs-you-need-6b50b3bef76d97569.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "7da1031600d6c608",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/tree-removal-services-canberra-how-to-choose-e42e2ec91a4640b8a4/",
+      "anchor": "more on tree removal services canberra how to choose",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
